@@ -11,23 +11,6 @@ Data Scientist by EBAC – British School of Creative Arts and Technology, under
 ●	MBA in business management - USP (2020-2022)<br/>
 ●	Bachelor's degree in chemistry- USP (2012-2016)<br/>
 
-## Work experience
-**Ashland**(São Paulo/São Paulo)<br/>				 		                       (03/2017- 02/2024)<br/>
-Multinational company<br/> 
-Scientist.<br/>
-●	Working with sales to conduct market analysis, performance indicators, and strategy using tools such as Excel, Power BI, and Salesforce.<br/>
-●	Leadership in the development of new products and optimization of production processes.<br/>
-●	Creation of dashboards in Power BI to assist in strategic decision-making.<br/>
-●	Implementation of innovative solutions to optimize company results.<br/>
-●	Develop new (chemical) products for the region.<br/>
-●	Conduct and create analyses to test products in customer formulas.<br/>
-●	Lead a multidisciplinary innovation group.<br/>
-●	Monitor new digital technologies and their importance to the business.<br/>
-●	Use Salesforce to record opportunities and projects.<br/>
-●	Write articles for presentation at conferences.<br/>
-●	Leader of a multidisciplinary group of managers to discuss encouraging innovation.<br/>
-
-
 ## Projects
 ### Marketing Data Analysis using K-Means and XGBoost (2024)
  -This project utilizes marketing data to uncover customer patterns and develop predictive models for purchase likelihood. Insights gained can be used to optimize digital marketing budget allocation and predict if a campaign will succeed. 
